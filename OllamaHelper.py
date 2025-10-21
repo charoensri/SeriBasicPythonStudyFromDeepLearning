@@ -163,6 +163,14 @@ def display_table(data):
     # Display the DataFrame as an HTML table
     display(HTML(df.to_html(index=False))) 
 
+def read_journal(journal_file):
+    f = open(journal_file, "r")
+    journal = f.read() 
+    f.close()
+
+    # Return the journal content
+    return journal
+
 def print_journal(file):
     f = open(file, "r")
     journal = f.read()
@@ -176,3 +184,14 @@ def fahrenheit_to_celsius(fahrenheit):
     # Print the results
     #print(f"{fahrenheit}°F is equivalent to {celsius:.2f}°C")
     return celsius
+
+def read_csv(file):
+    f = open(file, "r")
+    
+    csv_reader = csv.DictReader(f)
+    data = []
+    for row in csv_reader:
+        data.append(row)
+    f.close()
+    
+    return data
