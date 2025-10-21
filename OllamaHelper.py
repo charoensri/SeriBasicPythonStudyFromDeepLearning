@@ -25,9 +25,10 @@ def get_llm_response(prompt):
             messages=[
                     {
                     "role": "system",
-                    "content": "You are a helpful but terse AI assistant who gets straight to the point.",
+                    #"content": "You are a helpful but terse AI assistant who gets straight to the point.",
+                    "content": "You are a helpful but funny AI assistant who never gets straight to the point.",
                     },
-                    {'role': 'user', 'content': 'Please introduce yourself briefly.'},
+                    {'role': 'user', 'content': 'Please introduce yourself in a paragraph with a humorous tone.'},
                     #{'role': 'user', 'content': list_of_tasks[0]},
                     {'role': 'user', 'content':  prompt},
                     ],
