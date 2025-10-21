@@ -1,0 +1,28 @@
+
+ 
+ D a t e :   W e d ,   1 5   O c t   2 0 2 5   2 2 : 3 0 : 1 9   - 0 5 0 0   ( C D T ) 
+ 
+ F r o m :   S n y k   T e a m   < aaa@ s n y k . i o > 
+ 
+ R e p l y - T o :  aaa@ s n y k . i o 
+ 
+ T o :   s e r i . c h a r o e n s r i@abc.io
+ 
+ 
+ 
+ H i   S e r i , 
+ 
+   A s   M o d e l   C o n t e x t   P r o t o c o l   ( M C P )   a d o p t i o n   a c c e l e r a t e s ,   s o   d o e s   t h e   r i s k   o f   h i d d e n   t h r e a t s   l u r k i n g   w i t h i n   i t s   e c o s y s t e m .   S e e m i n g l y   h a r m l e s s   t o o l   d e s c r i p t i o n s   o r   p r o m p t s   c a n   b e c o m e   a t t a c k   v e c t o r s   t h a t   c o m p r o m i s e   y o u r   A I   a g e n t s . 
+    J o i n   u s   f o r   t h e   f i r s t   i n s t a l l m e n t   o f   o u r   A I   W e b i n a r   S e r i e s ,   T h e   H i d d e n   D a n g e r s   i n   M C P :   T o x i c   F l o w   A n a l y s i s   E x p l a i n e d   < h t t p s : / / n a m 0 2 . s a f e l i n k s . p r o t e c t i o n . o u t l o o k . c o m / ? u r l = h t t p s % 3 A % 2 F % 2 F e m . s n y k . i o % 2 F N j c 3 L V R I U C 0 0 M T U A A A G d i g o 6 r z X e c p F M V S y m u c x W J u R k n V e Y w m I N r J W R V U r N n B y 9 W Q r b O s I i _ r C W E a _ Y k b h S k 5 O n H x 0 % 3 D & d a t a = 0 5 % 7 C 0 2 % 7 C s e r i . c h a r o e n s r i % 4 0 p e g a . c o m % 7 C d d d 6 8 2 7 9 4 c 3 2 4 f 4 e b 7 2 3 0 8 d e 0 c 6 4 5 5 a 1 % 7 C 4 5 d 3 0 f 0 4 9 8 f d 4 d 3 8 b d c 0 9 d 8 1 4 2 2 1 8 0 f 4 % 7 C 0 % 7 C 0 % 7 C 6 3 8 9 6 1 8 2 2 2 6 8 5 5 6 5 3 2 % 7 C U n k n o w n % 7 C T W F p b G Z s b 3 d 8 e y J F b X B 0 e U 1 h c G k i O n R y d W U s I l Y i O i I w L j A u M D A w M C I s I l A i O i J X a W 4 z M i I s I k F O I j o i T W F p b C I s I l d U I j o y f Q % 3 D % 3 D % 7 C 0 % 7 C % 7 C % 7 C & s d a t a = i 2 o I 4 z i u n G 8 F 2 u m 8 W Z Z j w s s G C r H A J S o Q % 2 F r i 3 I O Y V t m 4 % 3 D & r e s e r v e d = 0 >   ,   o n   O c t o b e r   2 3 r d   a t   3 : 3 0   P M   ( A E D T )   /   1 1 : 3 0   A M   ( S G   T I M E )   /   1 0 : 0 0   A M   ( I S T ) . 
+  I n   t h i s   w e b i n a r ,   w e ' l l   d i v e   i n t o   t h e   r i s k s   o f   p r o m p t   i n j e c t i o n ,   t o o l   p o i s o n i n g   a t t a c k s ,   M C P   r u g   p u l l s ,   a n d   c r o s s - o r i g i n   e s c a l a t i o n s .   U s i n g   M C P   S c a n ,   w e ' l l   d e m o n s t r a t e   h o w   t o   d e t e c t   a n d   m i t i g a t e   t h e s e   t o x i c   f l o w s   b e f o r e   t h e y   c a u s e   r e a l   d a m a g e . 
+ 
+ Y o u   w i l l   l e a r n : 
+ 
+ * 	 W h a t   t o x i c   f l o w   a n a l y s i s   i s   a n d   w h y   i t   m a t t e r s   f o r   M C P   s e c u r i t y 
+ 
+ * 	 C o m m o n   a t t a c k   p a t t e r n s   t a r g e t i n g   M C P   t o o l s   a n d   s e r v e r s 
+
+ B e s t , 
+  
+ T h e   S n y k   T e a m 
+ 
